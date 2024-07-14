@@ -8,7 +8,7 @@
 5. Run Database migration command "php artisan migrate --seed"
 6. Run server using "php artisan serve"
 
-This project complete below points
+<h2>This project complete below points</h2>
  
 1. Tasks should appear dynamically on the frontend without requiring a page refresh.
 2. Clicking on a checkbox marks a task as completed and removes it from the display.
@@ -17,7 +17,7 @@ This project complete below points
 5. Ensure that no duplicate tasks can be added to the list.
 
 
-Notes:
+<h2>Notes:</h2>
 1. Ensure your environment meets the Laravel framework requirements.
 2. Customize the .env file according to your database settings.
 3. Modify routes, controllers, and views as per your specific project requirements.
