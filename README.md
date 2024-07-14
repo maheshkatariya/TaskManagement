@@ -10,9 +10,15 @@
 
 This project complete below points
  
-1) When clicking on the enter button task should appear in the Frontend & page should not reload and refresh. 
-2) By clicking on the checkbox the task should disappear and Should mark it as completed. 
-3) By clicking on the show all task button, All the tasks should show completed and Non completed. 
-4) The task should be deleted when you click on the delete button. 
-5) you have to add the warning (Are u sure to delete this task ?) When you click on the delete button. 
-6) No duplicate tasks should be there.
+1. Tasks should appear dynamically on the frontend without requiring a page refresh.
+2. Clicking on a checkbox marks a task as completed and removes it from the display.
+3. Clicking on a button displays both completed and non-completed tasks. 
+4. Tasks can be deleted by clicking a delete button, with a confirmation prompt. 
+5. Ensure that no duplicate tasks can be added to the list.
+
+
+Notes:
+1. Ensure your environment meets the Laravel framework requirements.
+2. Customize the .env file according to your database settings.
+3. Modify routes, controllers, and views as per your specific project requirements.
+
